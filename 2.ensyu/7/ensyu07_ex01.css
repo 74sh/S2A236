@@ -1,0 +1,27 @@
+table,
+tr,
+th,
+td {
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 5px;
+}
+td {
+  padding: 5px 25px 5px 5px;
+}
+
+.word {
+  text-align: left;
+  float: left;
+}
+.author {
+  text-align: right;
+  float: right;
+}
+.good {
+  padding: 0px 5px;
+  line-height: 0px;
+}

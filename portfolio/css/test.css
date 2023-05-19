@@ -1,0 +1,8 @@
+.divs {
+  background: white;
+}
+.main-visual {
+  background: linear-gradient(120deg, rgba(129, 212, 250, 0.5), rgba(0, 0, 0, 0) 75%),
+    linear-gradient(240deg, rgba(206, 147, 216, 0.5), rgba(0, 0, 0, 0) 75%),
+    linear-gradient(360deg, rgba(255, 204, 128, 0.5), rgba(0, 0, 0, 0) 75%);
+}
